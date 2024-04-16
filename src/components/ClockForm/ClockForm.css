@@ -1,0 +1,15 @@
+.clock-form {
+    display: flex;
+    margin: 40px;
+}
+
+.container-clock-form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+}
+
+.button-clock-form {
+    height: 50%;
+    align-self: center;
+}
